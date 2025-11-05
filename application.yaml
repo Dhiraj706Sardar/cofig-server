@@ -1,6 +1,6 @@
 spring:
- application:
-  name: application
+  application:
+    name: application
 eureka:
     instance:
         hostname: localhost
